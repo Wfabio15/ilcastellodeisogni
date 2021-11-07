@@ -11,14 +11,18 @@
   margin: 65px auto 60px 0;
 }
 
-.u-section-3-1 .u-image-1 {
+.u-section-3-1 .u-layout-cell-1 {
   min-height: 400px;
-  background-image: url("images/f31f4a3aef497116f7e483a8d00f2eff5918c61b48229e5a536a0da6bda7e146462b20deba09898124ac2f5a801671da93df119339d288e6456441_1280.png");
-  background-position: 50% 50%;
 }
 
 .u-section-3-1 .u-container-layout-1 {
   padding: 30px;
+}
+
+.u-section-3-1 .u-image-1 {
+  height: 340px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-3-1 .u-layout-cell-2 {
@@ -53,8 +57,13 @@
     margin-left: initial;
   }
 
-  .u-section-3-1 .u-image-1 {
+  .u-section-3-1 .u-layout-cell-1 {
+    background-position: 50% 50%;
     min-height: 330px;
+  }
+
+  .u-section-3-1 .u-image-1 {
+    height: 269px;
   }
 
   .u-section-3-1 .u-layout-cell-2 {
@@ -75,8 +84,12 @@
     min-height: 290px;
   }
 
-  .u-section-3-1 .u-image-1 {
+  .u-section-3-1 .u-layout-cell-1 {
     min-height: 253px;
+  }
+
+  .u-section-3-1 .u-image-1 {
+    height: 191px;
   }
 
   .u-section-3-1 .u-layout-cell-2 {
@@ -89,13 +102,17 @@
     min-height: 706px;
   }
 
-  .u-section-3-1 .u-image-1 {
+  .u-section-3-1 .u-layout-cell-1 {
     min-height: 569px;
   }
 
   .u-section-3-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3-1 .u-image-1 {
+    height: 552px;
   }
 }
 
@@ -109,8 +126,12 @@
     margin-left: 0;
   }
 
+  .u-section-3-1 .u-layout-cell-1 {
+    min-height: NaNpx;
+  }
+
   .u-section-3-1 .u-image-1 {
-    min-height: 283px;
+    height: NaNpx;
   }
 
   .u-section-3-1 .u-layout-cell-2 {
@@ -138,14 +159,18 @@
   margin: 65px auto 60px 0;
 }
 
-.u-section-3-2 .u-image-1 {
+.u-section-3-2 .u-layout-cell-1 {
   min-height: 400px;
-  background-image: url("images/Foto2.PNG");
-  background-position: 50% 50%;
 }
 
 .u-section-3-2 .u-container-layout-1 {
   padding: 30px;
+}
+
+.u-section-3-2 .u-image-1 {
+  height: 340px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-3-2 .u-layout-cell-2 {
@@ -180,8 +205,13 @@
     margin-left: initial;
   }
 
-  .u-section-3-2 .u-image-1 {
+  .u-section-3-2 .u-layout-cell-1 {
+    background-position: 50% 50%;
     min-height: 330px;
+  }
+
+  .u-section-3-2 .u-image-1 {
+    height: 269px;
   }
 
   .u-section-3-2 .u-layout-cell-2 {
@@ -202,8 +232,12 @@
     min-height: 290px;
   }
 
-  .u-section-3-2 .u-image-1 {
+  .u-section-3-2 .u-layout-cell-1 {
     min-height: 253px;
+  }
+
+  .u-section-3-2 .u-image-1 {
+    height: 191px;
   }
 
   .u-section-3-2 .u-layout-cell-2 {
@@ -216,13 +250,17 @@
     min-height: 706px;
   }
 
-  .u-section-3-2 .u-image-1 {
+  .u-section-3-2 .u-layout-cell-1 {
     min-height: 569px;
   }
 
   .u-section-3-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3-2 .u-image-1 {
+    height: 552px;
   }
 }
 
@@ -236,8 +274,12 @@
     margin-left: 0;
   }
 
+  .u-section-3-2 .u-layout-cell-1 {
+    min-height: NaNpx;
+  }
+
   .u-section-3-2 .u-image-1 {
-    min-height: 283px;
+    height: NaNpx;
   }
 
   .u-section-3-2 .u-layout-cell-2 {
@@ -265,14 +307,18 @@
   margin: 65px auto 60px 0;
 }
 
-.u-section-3-3 .u-image-1 {
+.u-section-3-3 .u-layout-cell-1 {
   min-height: 400px;
-  background-image: url("images/Foto3.PNG");
-  background-position: 50% 50%;
 }
 
 .u-section-3-3 .u-container-layout-1 {
   padding: 30px;
+}
+
+.u-section-3-3 .u-image-1 {
+  height: 340px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-3-3 .u-layout-cell-2 {
@@ -307,8 +353,13 @@
     margin-left: initial;
   }
 
-  .u-section-3-3 .u-image-1 {
+  .u-section-3-3 .u-layout-cell-1 {
+    background-position: 50% 50%;
     min-height: 330px;
+  }
+
+  .u-section-3-3 .u-image-1 {
+    height: 269px;
   }
 
   .u-section-3-3 .u-layout-cell-2 {
@@ -329,8 +380,12 @@
     min-height: 290px;
   }
 
-  .u-section-3-3 .u-image-1 {
+  .u-section-3-3 .u-layout-cell-1 {
     min-height: 253px;
+  }
+
+  .u-section-3-3 .u-image-1 {
+    height: 191px;
   }
 
   .u-section-3-3 .u-layout-cell-2 {
@@ -343,13 +398,17 @@
     min-height: 706px;
   }
 
-  .u-section-3-3 .u-image-1 {
+  .u-section-3-3 .u-layout-cell-1 {
     min-height: 569px;
   }
 
   .u-section-3-3 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3-3 .u-image-1 {
+    height: 552px;
   }
 }
 
@@ -364,8 +423,12 @@
     margin-left: initial;
   }
 
+  .u-section-3-3 .u-layout-cell-1 {
+    min-height: 358px;
+  }
+
   .u-section-3-3 .u-image-1 {
-    min-height: 283px;
+    height: 340px;
   }
 
   .u-section-3-3 .u-layout-cell-2 {
@@ -384,20 +447,20 @@
     margin-bottom: -13px;
   }
 }.u-section-1 {
-  background-image: url("https://pixabay.com/get/g2aa4edb578390665b9d7d762ac49b0670dc03abe7b55e59de730e47ce836e308605711dda37c123c55f7b3f2591b2424e005bbd469f456920f7924fc852cac9b_1280.jpg");
-  background-position: 50% 0%;
+  background-image: url("images/390665b9d7d762ac49b0670dc03abe7b55e59de730e47ce836e308605711dda37c123c55f7b3f2591b2424e005bbd469f456920f7924fc852cac9b_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 521px;
+  min-height: 532px;
 }
 
 .u-section-1 .u-text-1 {
   background-image: none;
-  width: 803px;
   font-size: 2.25rem;
   font-weight: normal;
-  margin: 344px auto 60px;
+  width: 803px;
+  margin: 221px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -452,7 +515,6 @@
   grid-template-columns: calc(50% - 22px) calc(50% - 22px);
   min-height: 416px;
   grid-gap: 44px 44px;
-  grid-auto-columns: calc(50% - 22px);
 }
 
 .u-section-2 .u-list-item-1 {
@@ -550,10 +612,6 @@
   .u-section-2 .u-sheet-1 {
     min-height: 1006px;
   }
-
-  .u-section-2 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 22px));
-  }
 }
 
 @media (max-width: 991px) {
@@ -563,7 +621,6 @@
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: calc(100% - 0px);
   }
 }
 
@@ -579,10 +636,6 @@
 
   .u-section-2 .u-list-1 {
     width: 540px;
-  }
-
-  .u-section-2 .u-repeater-1 {
-    grid-auto-columns: 100%;
   }
 }
 
@@ -603,7 +656,6 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(50% - 14.5px) calc(50% - 14.5px);
     grid-gap: 29px 29px;
-    grid-auto-columns: calc(50% - 14.5px);
   }
 
   .u-section-2 .u-list-item-1 {
